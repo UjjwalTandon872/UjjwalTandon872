@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UjjwalTandon872
-- 👀 I’m interested in using Artificial Intellegence in the field of Suppl Chain
+- 👀 I’m interested in using Artificial Intellegence in the field of Supply Chain
 - 🌱 I’m currently learning AI using Python
 - 💞️ I’m looking to collaborate on relevant projects that are using AI for Supply chain
 - 📫 You can reach me directly at utandon.2013@gmail.com
